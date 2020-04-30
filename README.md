@@ -27,4 +27,4 @@ Execute the below reporting query to Visualise in a grid:
 
 /outbreak/REPORTQUERIES/Reporting_query.sql
 
-Alternately, open the below Tableau file to visualise them in Tableau
+Alternatively, open the below Tableau file to visualise them in Tableau
